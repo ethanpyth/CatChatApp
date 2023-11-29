@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icon_help_title">help</string>
+    <string name="sent_item">Sent Item</string>
+    <string name="inbox">Inbox</string>
+    <string name="support">Support</string>
+    <string name="a_cat">a cat</string>
+</resources>
